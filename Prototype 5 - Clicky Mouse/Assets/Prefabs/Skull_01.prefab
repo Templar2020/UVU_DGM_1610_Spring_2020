@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3173248592920511523}
   m_Layer: 0
   m_Name: Skull_01
-  m_TagString: Untagged
+  m_TagString: Bad
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,6 +121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d902b47f8ab4ff4caa90af4d6f5a4c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pointValue: -10
+  pointValue: -100
   explosionParticle: {fileID: 625621707174889904, guid: ef43e5aef41c142fb85a7658a397dc75,
     type: 3}
